@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"name": "Hello World",
+
+	"description": "FIrst ext",
+	"version": "1.0",
+
+	"browser_action": {
+		"default_icon":"icon.png",
+		"default_popup": "popup.html"
+	},
+
+	"permissions": [
+		"storage",
+		"http://yongwang.space"
+	],
+
+	"options_page": "options.html"
+
+
+}

@@ -1,0 +1,19 @@
+public class Test {
+
+	public static void printNestedArray(int[][] nestedArray) {
+		for (int i = 0; i < nestedArray.length; i++) {
+			System.out.print("[" + i + "]. ");
+			for (int j = 0; j < nestedArray[i].length; j++) {
+				System.out.print(nestedArray[i][j] + " ");
+			}
+			System.out.println();
+		}
+	}
+
+	public static void main(String[] args) {
+		SummerState summerState = new SummerState(2, 3);
+		printNestedArray(summerState.getSalaries());
+
+	}
+
+}

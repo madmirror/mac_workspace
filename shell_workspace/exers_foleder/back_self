@@ -1,0 +1,7 @@
+#!/bin/zsh
+# Author: yong
+# Created: Fri Jul 22 21:09:48 EDT 2016
+
+# Back up my self
+
+cp "$0" backup

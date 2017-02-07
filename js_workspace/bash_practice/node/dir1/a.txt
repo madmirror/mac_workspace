@@ -1,0 +1,9 @@
+a.txt
+mydocument-v17.doc
+mydocument-v18.doc
+mydocument-v19.doc
+total 8
+-rw-r--r--  1 yong  staff  63 Jul 14 17:20 a.txt
+-rw-r--r--  1 yong  staff   0 Jul 14 17:15 mydocument-v17.doc
+-rw-r--r--  1 yong  staff   0 Jul 14 17:15 mydocument-v18.doc
+-rw-r--r--  1 yong  staff   0 Jul 14 17:15 mydocument-v19.doc
